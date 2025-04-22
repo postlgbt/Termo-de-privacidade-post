@@ -9,7 +9,7 @@
 
 # TERMO DE PRIVACIDADE 
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_"Nós valorizamos sua privacidade e nos comprometemos a proteger suas informações pessoais. Ao utilizar nossos serviços, você concorda com os termos descritos abaixo."._
 
 </header>
 
