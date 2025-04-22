@@ -21,22 +21,30 @@ _"Nós valorizamos sua privacidade e nos comprometemos a proteger suas informaç
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: ATENÇÃO AOS DETALHES SOBRE A PRIVACIDADE DA SUAS INFORMAÇÕES 
+## etapa 1: ATENÇÃO AOS DETALHES SOBRE A PRIVACIDADE DA SUAS INFORMAÇÕES 
 
 _BEM VINDOS!_
 
 "Leia com atenção cada palavra abaixo. Ao utilizar nossos serviços, você concorda com os Termos de Privacidade descritos aqui. Sua privacidade é importante para nós, e é fundamental que você entenda como coletamos, usamos e protegemos suas informações pessoais.".
 
-### :keyboard: Activity: Enable GitHub Pages
+### : TERMO: "Ao utilizar nossos serviços, você concorda com esses termos. Se tiver alguma dúvida ou preocupação, por favor, entre em contato conosco."
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+# 1.Transparência
+O Termo de Privacidade deve ser claro e transparente sobre como as informações pessoais são coletadas, usadas e protegidas.
+
+# 2.Consentimento 
+ 3. O cliente e o vendedor devem dar seu consentimento explícito para a coleta e uso de suas informações pessoais.
+
+# 4. Segurança
+As informações pessoais devem ser protegias com medidas de segurança adequadas. 
+
+# 5. Acesso restrito
+ 6. O acesso às informações pessoais deve ser restrito apenas às pessoas autorizadas.
+
+# 7.Responsabilidade
+A empresa deve ser responsável por garantir a segurança e privacidade das informações pessoais..
+
+
 
 <footer>
 
