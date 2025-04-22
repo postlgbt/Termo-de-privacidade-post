@@ -21,11 +21,11 @@ _"Nós valorizamos sua privacidade e nos comprometemos a proteger suas informaç
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
+## Step 1: ATENÇÃO AOS DETALHES SOBRE A PRIVACIDADE DA SUAS INFORMAÇÕES 
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+_BEM VINDOS!_
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+"Leia com atenção cada palavra abaixo. Ao utilizar nossos serviços, você concorda com os Termos de Privacidade descritos aqui. Sua privacidade é importante para nós, e é fundamental que você entenda como coletamos, usamos e protegemos suas informações pessoais.".
 
 ### :keyboard: Activity: Enable GitHub Pages
 
